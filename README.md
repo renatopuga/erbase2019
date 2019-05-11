@@ -16,7 +16,7 @@ Referência: [Tutorial NGS] (https://galaxyproject.org/tutorials/ngs/)
 
 ## Alunos Participantes
 
-* Anderson Santos <andersonsfa 0 @gmail . com> [github L1gth1] (https://github.com/L1ght1)
+* Anderson Santos <andersonsfa0 @gmail . com> [github L1gth1] (https://github.com/L1ght1)
 * Késsia Évely Campos Souza <evellycsousa @ gmail . com> 
 * Leandro Nascimento <leandronasx18 @ gmail . com>
 * Wellington Batalha <wsbatalha @ gmail . com>

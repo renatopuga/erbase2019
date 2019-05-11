@@ -33,6 +33,7 @@ Clique no Menu: ***Login or Register > Register***:
 
 <img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-register.png?raw=true">
 
+
 **Fonte:** Galaxy Login or Register. ([usegalaxy] (usegalaxy.org))
 
 ### Carregando Arquivos no Galaxy
@@ -127,4 +128,6 @@ Os mapeadores geralmente comparam as sequências com uma sequência de referênc
 FreeBayes bayesian genetic variant detector.
 ***NGS: Variant Analysis > FreeBayes bayesian genetic variant detector***
 
-<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-freebayes-run?raw=true">
+<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-freebayes-run.png?raw=true">
+
+

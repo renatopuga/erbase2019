@@ -31,7 +31,7 @@ Acesse: [usegalaxy.org] (https://usegalaxy.org/)
 
 Clique no Menu: ***Login or Register > Register***
 
-![Markdown preferences pane](img/galaxy-register.png)
+![Markdown preferences pane](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-register.png)
 **Fonte:** Galaxy Login or Register. ([usegalaxy] (usegalaxy.org))
 
 ### Carregando Arquivos no Galaxy
@@ -45,7 +45,7 @@ https://zenodo.org/record/583613/files/sample2-f.fq.gz
 https://zenodo.org/record/583613/files/sample2-r.fq.gz
 ```
 
-Agora, no Galaxy, clique no ícone ![teste](img/galaxy-load-data.png) para abrir a janela ***Download from web or upload from disk*** , então clique no botão ***Paste/Fetch data*** e cole os links das amostras no painel.
+Agora, no Galaxy, clique no ícone ![teste](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-load-data.png) para abrir a janela ***Download from web or upload from disk*** , então clique no botão ***Paste/Fetch data*** e cole os links das amostras no painel.
 
 ![Upload] (img/galaxy-upload-fastq.png)
 
@@ -93,7 +93,7 @@ Utilize a busca para encontrar o programa FASTQC:
 
 Agora, clique no ícone ***Multiple datasets*** e selecione todos os arquivos **.fq.gz**.
 
-![FASTQC] (img/galaxy-fastqc-run.png)
+![FASTQC] (https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-fastqc-run.png)
 
 #### MultiQC Report
 
@@ -120,12 +120,12 @@ Os mapeadores geralmente comparam as sequências com uma sequência de referênc
 * hg19
 * paired-end reads
 
-![bwa](img/galaxy-bwa-run.png)
+![bwa](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-bwa-run.png)
 
 ### Call Variants
 
 FreeBayes bayesian genetic variant detector.
 ***NGS: Variant Analysis > FreeBayes bayesian genetic variant detector***
 
-![bwa](img/galaxy-freebayes-run.png)
+![bwa](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-freebayes-run.png)
 

@@ -120,7 +120,7 @@ Os mapeadores geralmente comparam as sequências com uma sequência de referênc
 * hg19
 * paired-end reads
 
-![bwa](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-bwa-run.png)
+![bwa](https://drive.google.com/open?id=1lLhycu1sTR__8JDlBsUDyqVic_V1q6w8)
 
 ### Call Variants
 

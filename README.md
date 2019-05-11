@@ -1,4 +1,4 @@
-#ERBASE 2019 - XIX Escola Regional de Computação Bahia - Alagoas - Sergipe
+## ERBASE 2019 - XIX Escola Regional de Computação Bahia - Alagoas - Sergipe
 
 ```
 Minicurso - Bioinformática Aplicada à área da Saúde

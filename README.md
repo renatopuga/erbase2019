@@ -29,9 +29,10 @@ Nesta seção, veremos aspectos práticos da manipulação de dados de sequencia
 
 Acesse: [usegalaxy.org] (https://usegalaxy.org/)
 
-Clique no Menu: ***Login or Register > Register***
+Clique no Menu: ***Login or Register > Register***:
 
-![Markdown preferences pane](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-register.png)
+<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-register.png?raw=true">
+
 **Fonte:** Galaxy Login or Register. ([usegalaxy] (usegalaxy.org))
 
 ### Carregando Arquivos no Galaxy
@@ -45,10 +46,9 @@ https://zenodo.org/record/583613/files/sample2-f.fq.gz
 https://zenodo.org/record/583613/files/sample2-r.fq.gz
 ```
 
-Agora, no Galaxy, clique no ícone ![teste](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-load-data.png) para abrir a janela ***Download from web or upload from disk*** , então clique no botão ***Paste/Fetch data*** e cole os links das amostras no painel.
+Agora, no Galaxy, clique no ícone <img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-load-data.png?raw=true"> para abrir a janela ***Download from web or upload from disk*** , então clique no botão ***Paste/Fetch data*** e cole os links das amostras no painel.
 
-![Upload] (img/galaxy-upload-fastq.png)
-
+<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-upload-fastq.png?raw=true">
 
 
 ### FASTQ - Manipulação e ***Quality Control*** (QC)
@@ -93,7 +93,7 @@ Utilize a busca para encontrar o programa FASTQC:
 
 Agora, clique no ícone ***Multiple datasets*** e selecione todos os arquivos **.fq.gz**.
 
-![FASTQC] (https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-fastqc-run.png)
+<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-fastqc-run.png?raw=true">
 
 #### MultiQC Report
 
@@ -102,7 +102,7 @@ Uma ferramenta modular para agregar resultados de análises de bioinformática e
 Utilize a busca para encontrar o programa MultiQC: 
 ***NGS: QC and manipulation > MultiQC aggregate results from bioinformatics analyses into a single report***.
 
-![MultiQC] (img/galaxy-multiqc-run.png)
+<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-multiqc-run.png?raw=true">
 
 ### Mepeamento
 
@@ -120,12 +120,11 @@ Os mapeadores geralmente comparam as sequências com uma sequência de referênc
 * hg19
 * paired-end reads
 
-![bwa](https://drive.google.com/open?id=1lLhycu1sTR__8JDlBsUDyqVic_V1q6w8)
+<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-bwa-run.png?raw=true">
 
 ### Call Variants
 
 FreeBayes bayesian genetic variant detector.
 ***NGS: Variant Analysis > FreeBayes bayesian genetic variant detector***
 
-![bwa](https://github.com/renatopuga/erbase2019/tree/master/img/galaxy-freebayes-run.png)
-
+<img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-freebayes-run?raw=true">

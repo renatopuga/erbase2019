@@ -34,7 +34,7 @@ Clique no Menu: ***Login or Register > Register***:
 <img src="https://github.com/renatopuga/erbase2019/blob/master/img/galaxy-register.png?raw=true">
 
 
-**Fonte:** Galaxy Login or Register. ([usegalaxy] (usegalaxy.org))
+**Fonte:** Galaxy Login or Register. ([usegalaxy] (https://usegalaxy.org))
 
 ### Carregando Arquivos no Galaxy
 

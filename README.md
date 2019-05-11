@@ -14,6 +14,13 @@ Utilizando a plataforma **Galaxy Hub** e seguindo o pipeline de chamada de varia
 
 Referência: [Tutorial NGS] (https://galaxyproject.org/tutorials/ngs/)
 
+## Alunos Participantes
+
+* Anderson Santos <andersonsfa 0 @gmail . com> [github L1gth1] (https://github.com/L1ght1)
+* Késsia Évely Campos Souza <evellycsousa @ gmail . com> 
+* Leandro Nascimento <leandronasx18 @ gmail . com>
+* Wellington Batalha <wsbatalha @ gmail . com>
+
 ## Roteiro - usegalaxy
 
 * [Aula Introdução - Clique aqui para acessar os Slides](https://www.slideshare.net/RenatoPuga/erbase-2019-renato-puga/RenatoPuga/erbase-2019-renato-puga)

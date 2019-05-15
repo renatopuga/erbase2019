@@ -18,9 +18,10 @@ Referência: [Tutorial NGS] (https://galaxyproject.org/tutorials/ngs/)
 
 * Anderson Santos <andersonsfa0 @ gmail . com> [github L1gth1] (https://github.com/L1ght1)
 * Arthur Juan Rabelo Lima <arthurgto.rbelo @ outlook . com> [github arthurjrl] (https://github.com/arthurjrl)
-* Késsia Évely Campos Souza <evellycsousa @ gmail . com> [github ramondcsilva] (https://github.com/ramondcsilva)
-* Leandro Nascimento <leandronasx18 @ gmail . com>
-* Ramon Silva <ramondecerqueirasilva @ gmail . com>
+* Késsia Évely Campos Souza <evellycsousa @ gmail . com> 
+* Leandro Nascimento <leandronasx18 @ gmail . com> [github Leandro-quan] (https://github.com/Leandro-quan)
+* Marcos Rios <rioos.marcos @ gmail . com> [marcoslor] (https://github.com/marcoslor)
+* Ramon Silva <ramondecerqueirasilva @ gmail . com> [ramondcsilva] (https://github.com/ramondcsilva)
 * Wellington Batalha <wsbatalha @ gmail . com>
 
 ## Roteiro - usegalaxy

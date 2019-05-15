@@ -21,7 +21,7 @@ Referência: [Tutorial NGS] (https://galaxyproject.org/tutorials/ngs/)
 * Késsia Évely Campos Souza <evellycsousa @ gmail . com> 
 * Leandro Nascimento <leandronasx18 @ gmail . com> [github Leandro-quan] (https://github.com/Leandro-quan)
 * Marcos Rios <rioos.marcos @ gmail . com> [marcoslor] (https://github.com/marcoslor)
-* Ramon Silva <ramondecerqueirasilva @ gmail . com>
+* Ramon Silva <ramondecerqueirasilva @ gmail . com> [ramondcsilva] (https://github.com/ramondcsilva)
 * Wellington Batalha <wsbatalha @ gmail . com>
 
 ## Roteiro - usegalaxy
